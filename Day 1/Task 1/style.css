@@ -1,0 +1,26 @@
+#navigation {
+	margin-left: auto;
+	margin-right: auto;
+  	width: 50%;
+}
+
+#navigation_button {
+	background-color: #333;
+	float: left;
+	color: #f2f2f2;
+	text-align: center;
+	padding: 15px 0px;
+	text-decoration: none;
+	font-size: 17px;
+	width: 25%;
+}
+
+#navigation_button:hover {
+	background-color: #ddd;
+	color: black;
+}
+
+#navigation_button:active {
+	background-color: #04AA6D;
+	color: white;
+}
